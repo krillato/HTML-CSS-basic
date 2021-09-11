@@ -1,5 +1,4 @@
-# git-demo
-git-demo
+โค้ดเบื้องต้น HTML
 
-This line jaaaaaa
-Hey My name is TeeTime
+เป็นโค้ดพื้นฐาน HTML นะครับ 
+มีไฟล์ สรุปพร้อมภาพประกอบให้ดาวน์โหลด
